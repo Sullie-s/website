@@ -1,0 +1,26 @@
+/* Style applied to every <p> tag */
+p {
+  color: #333;
+  font-family: Arial, sans-serif;
+}
+
+.highlight {
+  background-color: #f9f9f9;
+  border: 2px solid #ccc;
+  padding: 10px;
+}
+
+#intro {
+  margin-bottom: 20px;
+}
+
+
+a:hover {
+  color: #ff6600;
+}
+
+
+img {
+  border-radius: 10px;
+  margin: 10px;
+}
