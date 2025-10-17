@@ -5,7 +5,7 @@ p {
 }
 
 .highlight {
-  background-color: #f9f9f9;
+  background-color: #6b9ca9;
   border: 2px solid #ccc;
   padding: 10px;
 }
@@ -21,6 +21,8 @@ a:hover {
 
 
 img {
+  max-width: 200px;
+  height: auto;
   border-radius: 10px;
   margin: 10px;
 }
